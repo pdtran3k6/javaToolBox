@@ -1,0 +1,9 @@
+for (int i = 0; i < array.length; i++) {
+	//Do whatever trickery
+	System.out.println(array[i]);
+}
+
+
+Note: 
+int[] array = new int[3] 
+--> array.length = 3
